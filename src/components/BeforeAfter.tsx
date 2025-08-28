@@ -3,17 +3,17 @@ const BeforeAfter = () => {
   const cases = [
     {
       id: 1,
-      img: 'public/img/arahan.webp',
+      img: 'img/arahan.webp',
       url: "https://www.instagram.com/p/DAaF38Pu4JX/?utm_source=ig_web_copy_link&igsh=OGFnYjJvbGd1cjV5"
     },
     {
       id: 2,
-      img: 'public/img/mariana.webp',
+      img: 'img/mariana.webp',
       url: "https://www.instagram.com/p/DCFfzVFSXWi/?utm_source=ig_web_copy_link&igsh=MTQ4ZjltNGRla2kzaA=="
     },
     {
       id: 3,
-      img: 'public/img/mariam.webp',
+      img: 'img/mariam.webp',
       url: "https://www.instagram.com/p/DEsknUFShcO/?utm_source=ig_web_copy_link&igsh=MWNjNGgydTlzdHA0cQ=="
     }
   ];

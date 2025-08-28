@@ -65,7 +65,7 @@ const SmilePerfect = () => {
 
           <div className="bg-white/10 backdrop-blur-sm rounded-2xl p-8">
             <img 
-              src="public/img/Consultorio.webp" 
+              src="img/Consultorio.webp" 
               alt="Tratamiento Smile Perfect en progreso"
               className="w-full h-64 object-cover rounded-lg mb-6"
             />
