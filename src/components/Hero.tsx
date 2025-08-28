@@ -44,7 +44,7 @@ const Hero = () => {
           <div className="relative">
             <div className="bg-white rounded-2xl shadow-2xl p-8">
               <img 
-                src="src/img/CasodeAclaramientoDental.webp" 
+                src="public/img/CasodeAclaramientoDental.webp" 
                 alt="Sonrisa perfecta después del tratamiento"
                 className="w-full object-cover rounded-lg mb-6"
               />
