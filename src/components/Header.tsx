@@ -38,12 +38,12 @@ const Header = () => {
         {isMenuOpen && (
           <div className="md:hidden pb-4">
             <nav className="flex flex-col space-y-2">
-              <a href="#inicio" className="text-gray-700 hover:text-blue-600 py-2">Inicio</a>
-              <a href="#doctor" className="text-gray-700 hover:text-blue-600 py-2">Dr. La Rosa</a>
-              <a href="#smile-perfect" className="text-gray-700 hover:text-blue-600 py-2">Smile Perfect</a>
-              <a href="#casos" className="text-gray-700 hover:text-blue-600 py-2">Casos</a>
-              <a href="#servicios" className="text-gray-700 hover:text-blue-600 py-2">Servicios</a>
-              <a href="#contacto" className="text-gray-700 hover:text-blue-600 py-2">Contacto</a>
+              <a href="#inicio" className="text-white hover:text-gray-200 py-2">Inicio</a>
+              <a href="#doctor" className="text-white hover:text-gray-200 py-2">Dr. La Rosa</a>
+              <a href="#smile-perfect" className="text-white hover:text-gray-200 py-2">Smile Perfect</a>
+              <a href="#casos" className="text-white hover:text-gray-200 py-2">Casos</a>
+              <a href="#servicios" className="text-white hover:text-gray-200 py-2">Servicios</a>
+              <a href="#contacto" className="text-white hover:text-gray-200 py-2">Contacto</a>
             </nav>
           </div>
         )}
